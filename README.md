@@ -83,9 +83,7 @@
   <a href="mailto:nguyenngocphong0924706743@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
-  
+ 
 </div>
-<div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 <br>
